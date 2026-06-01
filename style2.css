@@ -1,0 +1,81 @@
+body {
+    background: rgb(255, 255, 255);
+}
+.title {
+    color: rgb(116, 6, 126);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    font-family: 'monospace', sans-serif;
+    position: relative;
+    bottom: 20px;
+}
+.box1 {
+    background-color: rgba(236, 46, 253, 0.966);
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+.box2 {
+    background-color: rgba(236, 46, 253, 0.966);
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+.image1 {
+    width: 100px;
+    height: auto;
+    
+}
+.image2 {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.box3 {
+    background-color: rgba(236, 46, 253, 0.966);
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+.title1 {
+    color: rgb(116, 6, 126);
+    font-size: 20px;
+    font-family: 'monospace', sans-serif;
+}
+.box4 {
+    background-color: rgba(236, 46, 253, 0.966);
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+.title2 {
+    color: rgb(116, 6, 126);
+    font-size: 20px;
+    font-family: 'monospace', sans-serif;
+}
+.title3 {
+    color: rgb(116, 6, 126);
+    font-size: 20px;
+    font-family: 'monospace', sans-serif;
+}
+.box5 {
+    background-color: rgba(236, 46, 253, 0.966);
+    color: white;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
